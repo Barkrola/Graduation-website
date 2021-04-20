@@ -11,6 +11,22 @@
 /*end main rules*/
 
 /*start header*/
+.header .sign {
+	float: right;
+	width: 100%;
+	color: #06a5b8;
+	margin: 0;
+	border: none;
+	height: 50px;
+}
+
+.header .sign ul {
+	float: right;
+	list-style: none;
+	margin: 0;
+	margin-left: 800px;
+	padding-top: 10px;
+}
 
 .header .sign ul li {
 	float: right;
@@ -20,12 +36,16 @@
 	text-transform: uppercase;
 	display: inline-block;
 }
-
+.header .sign ul li :hover {
+	background-color: #5d8edb;
+	border-radius: 7px;
+	box-shadow: 0 0 10px white;
+} 
 .header .sign ul li a {
 	text-decoration: none;
 	color: #FFF;
 }
-.header .sign ul li a:hover {color: #06a5b8;}
+
 .header .slider {
 background-image: url(../images/slider.png);
 background-size:1500px 500px; /*css3*/
