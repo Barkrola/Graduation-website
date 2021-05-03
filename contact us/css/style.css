@@ -127,13 +127,13 @@ footer {
 	background-color: gainsboro;
 }
 
-	footer:hover {
-		background-color: #252F31;
-	}
+footer:hover {
+	background-color: #252F31;
+}
 
-	footer table tr a:hover {
-		color: #222;
-	}
+footer table tr a:hover {
+	color: white;
+}
 
 td {
 	width: 600px;
