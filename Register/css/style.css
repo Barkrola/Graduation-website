@@ -26,55 +26,55 @@ body {
 	text-transform: uppercase;
 }
 
-	.header .navbar .container {
-		width: 90%;
-	}
+.header .navbar .container {
+	width: 90%;
+}
 
-		.header .navbar .container a {
-			text-decoration: none;
-			color: #FFF;
-		}
+.header .navbar .container a {
+	text-decoration: none;
+	color: #FFF;
+}
 
-	.header .navbar img {
-		width: 70px;
-		height: 70px;
-		float: left;
-		padding-bottom: 5px;
-	}
+.header .navbar img {
+	width: 70px;
+	height: 70px;
+	float: left;
+	padding-bottom: 5px;
+}
 
-	.header .navbar h2 {
-		float: left;
-		padding-top: 10px;
-		margin-top: 15px;
-	}
+.header .navbar h2 {
+	float: left;
+	padding-top: 10px;
+	margin-top: 15px;
+}
 
-		.header .navbar h2 span {
-			color: #06a5b8;
-		}
+.header .navbar h2 span {
+	color: #06a5b8;
+}
 
-	.header .navbar ul {
-		list-style: none;
-		padding-left: 0;
-		padding-top: 10px;
-		overflow: hidden;
-		float: right;
-	}
+.header .navbar ul {
+	list-style: none;
+	padding-left: 0;
+	padding-top: 10px;
+	overflow: hidden;
+	float: right;
+}
 
-		.header .navbar ul li {
-			float: left;
-			padding: 10px;
-			margin-top: 15px;
-		}
+.header .navbar ul li {
+	float: left;
+	padding: 10px;
+	margin-top: 15px;
+}
 
-			.header .navbar ul li a {
-				text-decoration: none;
-				color: #FFF;
-			}
+.header .navbar ul li a {
+	text-decoration: none;
+	color: #FFF;
+}
 
-				.header .navbar ul li.active a,
-				.header .navbar ul li a:hover {
-					color: #06a5b8;
-				}
+.header .navbar ul li.active a,
+.header .navbar ul li a:hover {
+	color: #06a5b8;
+}
 /*end header*/
 /*Start main*/
 .title {
@@ -82,15 +82,15 @@ body {
 	color: teal;
 }
 
-	.title h1 {
-		font-size: 50px;
-		line-height: 10px;
-		color: teal;
-	}
+.title h1 {
+	font-size: 50px;
+	line-height: 10px;
+	color: teal;
+}
 
-	.title h2 {
-		font-size: 23px;
-	}
+.title h2 {
+	font-size: 23px;
+}
 
 form p {
 	color: crimson;
@@ -132,9 +132,9 @@ input {
 	height: :50px;
 }
 
-	#sub:hover {
-		background-color: turquoise;
-	}
+#sub:hover {
+	background-color: turquoise;
+}
 /*End main*/
 /*Start footer*/
 footer {
@@ -142,10 +142,10 @@ footer {
 	height: 250px;
 	background-color: gainsboro;
 }
-
-	footer table tr a:hover {
-		color: #222;
-	}
+footer:hover {background-color:#252F31;}
+footer table tr a:hover {
+	color: #222;
+}
 
 td {
 	width: 600px;
@@ -165,21 +165,21 @@ h1 {
 
 a {
 	text-decoration: none;
-	color: #4877CA;
+	color: #06a5b8;
 }
 
 .head h1 {
 	font-family: French Script MT;
 	font-size: 70px;
 	text-transform: capitalize;
-	color: #EC711E;
+	color: white;
 	font-weight: bold;
 }
 
-	.head h1 span {
-		color: dodgerblue;
-		font-family: French Script MT;
-	}
+.head h1 span {
+	color: #06a5b8;
+	font-family: French Script MT;
+}
 
 .contact img {
 	width: 42px;
